@@ -3,8 +3,7 @@
 This EFI works on the 20HQ variant of the X1 Carbon just fine and on the LATEST version of MacOS (as of writting this, Sequoia). 
 I don't guarentee that it works on older versions, mostly because I lazily threw this together from multiple resources. 
 
-It is heavily recommended that you read through the [Dortania Hackintosh](https://dortania.github.io/OpenCore-Install-Guide) guide before you use this EFI willy nilly. You might  
-have to fix a few things.
+It is heavily recommended that you read through the [Dortania Hackintosh](https://dortania.github.io/OpenCore-Install-Guide) guide before you use this EFI willy nilly. You might have to fix a few things.
 
 # NOTES
 
